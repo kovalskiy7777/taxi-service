@@ -76,6 +76,8 @@ Viktor Yukhno - pingvinomania@gmail.com
 
 Project Link: [https://github.com/kovalskiy7777/taxi-service.git](https://github.com/kovalskiy7777/taxi-service.git)
 
+Heroku Link: [https://pingwins-taxi.herokuapp.com](https://pingwins-taxi.herokuapp.com)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
